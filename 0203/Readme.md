@@ -22,6 +22,8 @@
 - 내일은 알바를 가기 때문에 4시간 이상 공부하기를 목표로!!
 ```
 ---
+[모의고사](https://github.com/YooJuHyeon/test1/blob/master/0203/0203_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)
+[문제풀이](https://github.com/YooJuHyeon/test1/blob/master/0203/0203_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4.py)
 
 ## 이번주 목표
 - 이번주 실습때 어려웠던 문제 다시 풀어보기
