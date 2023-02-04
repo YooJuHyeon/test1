@@ -25,6 +25,8 @@
 - 또, 어제 못풀었던 백준 1157번을 재도전했는데, 모의고사때 풀었던 최빈수 구하기 문제에서 힌트를 얻어서 풀었다. 
 ```
 ---
+[1주차모의고사](https://github.com/YooJuHyeon/test1/blob/master/0204/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC1.py)
+[백준문제풀이](https://github.com/YooJuHyeon/test1/blob/master/0204/0204_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4.py)
 
 ## 이번주 목표
 - 이번주 실습때 어려웠던 문제 다시 풀어보기
