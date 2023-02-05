@@ -23,6 +23,10 @@
 - 이제 1월 4주차, 2월 1주차에 못 풀었던 실습과 모의고사들을 도전해봐야지!
 ```
 ---
+- [기본입출력](https://github.com/YooJuHyeon/test1/blob/master/0205/%EA%B8%B0%EB%B3%B8%EC%9E%85%EC%B6%9C%EB%A0%A5.md)
+- [시간복잡도](https://github.com/YooJuHyeon/test1/blob/master/0205/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
+- [리스트](https://github.com/YooJuHyeon/test1/blob/master/0205/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
+- [문제풀이](0205_문제풀이.py)
 
 ## 이번주 목표
 - 이번주 실습때 어려웠던 문제 다시 풀어보기
