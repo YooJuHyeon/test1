@@ -18,9 +18,10 @@
 - 내일은 2차원 배열을 풀어봐야지
 ```
 ---
-- [실습_RDBMS] / [실습_Workbench]
-- [정리_RDBMS]
-- [0208_문제풀이]
+- [실습_Relational_Database](https://github.com/YooJuHyeon/test1/blob/master/0208/Relational_Database.md) 
+- [실습_Workbench](https://github.com/YooJuHyeon/test1/blob/master/0208/my_workbench_guide.md) 
+- [정리_RDBMS](https://github.com/YooJuHyeon/test1/blob/master/0208/RDBMS.md)
+- [0208_문제풀이](https://github.com/YooJuHyeon/test1/blob/master/0208/0208_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4.py)
 
 ## 이번주 목표
 - "문자열", "딕셔너리", "스텍,큐","힙,셋", "이차원리스트" <- 복습하고 정리
