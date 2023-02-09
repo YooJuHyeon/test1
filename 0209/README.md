@@ -17,7 +17,9 @@
 
 ```
 ---
-
+- [SQL_Basics](https://github.com/YooJuHyeon/test1/blob/master/0209/SQL_Basics.md)
+- [SQL_Single_Table_Queries](https://github.com/YooJuHyeon/test1/blob/master/0209/SQL_Single_Table_Querise.md)
+---
 
 ## 이번주 목표
 - "문자열", "딕셔너리", "스텍,큐","힙,셋", "이차원리스트" <- 복습하고 정리
