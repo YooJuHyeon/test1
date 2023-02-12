@@ -141,6 +141,26 @@ word4 = ["h", "a", "p", "p", "y"]
 print("".join(word4))
 # happy
 ```
+---
+- 문자열 탐색/검증
+
+|문법|설명|
+|:---|:---|
+|s.find(x)|x의 첫 번째 위치를 반환. 없으면, -1을 반환|
+|s.index(x)|x의 첫 번째 위치를 반환. 없으면, 오류 발생|
+|s.isalpha()|알파벳 문자 여부. 단순 알파벳이 아닌 유니코드 상 Letter(한국어도 포함)|
+|s.isupper()|대문자 여부|
+|s.islower()|소문자 여부|
+|s.istitle()|타이틀 형식 여부|
+
+- 문자열 변경
+
+|문법|설명|
+|:---|:---|
+|s.replace(old, new[,count ])|바꿀 대상 글자를 새로운 글자로 바꿔서 반환|
+|s.strip([chars ])|공백이나 특정 문자를 제거|
+|s.split(sep=None, maxsplit=-1)|공백이나 특정 문자를 기준으로 분리|
+|'separator'.join([iterable ])|구분자로 iterable을 합침|
 
 --- 
 
