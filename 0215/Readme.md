@@ -16,8 +16,8 @@
 - 머리도 안돌아가고, 몸도 무겁고,, 피곤허다..
 ```
 ---
-- [Stack,Queue]()
-- [SQL_Multi_Table_Queries]()
+- [Stack,Queue](https://github.com/YooJuHyeon/test1/blob/master/0215/Stack%2CQueue.md)
+- [SQL_Multi_Table_Queries](https://github.com/YooJuHyeon/test1/blob/master/0215/SQL_Multi_Table_Queries.md)
 
 ## 이번주 목표
 - "힙,셋", "이차원리스트" <- 복습하고 정리
