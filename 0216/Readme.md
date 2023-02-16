@@ -12,7 +12,7 @@
 - 다음주부터는 일단위 목표는 조금 늘리고, 주단위 목표는 조금 줄여야겠다!
 ```
 ---
-- [SQL_Nested_Queries]()
+- [SQL_Nested_Queries](https://github.com/YooJuHyeon/test1/blob/master/0216/SQL_Nested_Queries.md)
 
 
 ## 이번주 목표
