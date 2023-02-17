@@ -19,7 +19,7 @@
 - 우선순위에 따라 시간분배를 잘 해서 일단 한 번 해보자!
 ```
 ---
-- [Heap&Set]()
+- [Heap&Set](https://github.com/YooJuHyeon/test1/blob/master/0217/Heap%2CSet.md)
 
 
 ## 이번주 목표
