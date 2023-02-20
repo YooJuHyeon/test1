@@ -37,6 +37,6 @@
 
 ```
 ---
-- [이차원리스트]()
-- [SQL - Advanced]()
+- [이차원리스트](https://github.com/YooJuHyeon/test1/blob/master/0220/%EC%9D%B4%EC%B0%A8%EC%9B%90%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+- [SQL - Advanced](https://github.com/YooJuHyeon/test1/blob/master/0220/SQL_Advanced_1.md)
 
