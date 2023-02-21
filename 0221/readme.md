@@ -39,6 +39,6 @@
 
 ```
 ---
-- []()
-- []()
+- [백준 20291번 ](https://github.com/YooJuHyeon/test1/blob/master/0221/%ED%8C%8C%EC%9D%BC%EC%A0%95%EB%A6%AC.py)
+- [SQL - Advanced 02](https://github.com/YooJuHyeon/test1/blob/master/0221/SQL_Advanced2.md)
 
