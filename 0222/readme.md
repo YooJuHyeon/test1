@@ -29,5 +29,5 @@
 - 하지만 재밌다.
 ```
 ---
-- [이차원리스트의 순회, 전치]()
-- [백준 10866번 : 덱]()
+- [이차원리스트의 순회, 전치](https://github.com/YooJuHyeon/test1/blob/master/0222/%EC%9D%B4%EC%B0%A8%EC%9B%90%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%88%9C%ED%9A%8C.md)
+- [백준 10866번 : 덱](https://github.com/YooJuHyeon/test1/blob/master/0222/%EB%8D%B1.py)
