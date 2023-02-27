@@ -6,7 +6,7 @@
  - 알고리즘 : 하루에 1문제 이상 문제 풀기 
 
 # 당일 목표
-1. 코드업 기초 100제 문제 풀기 (1문제 풀었음)
+1. ~~코드업 기초 100제 문제 풀기 (1문제 풀었음)~~
 2. ~~오늘 수업 복습 및 정리~~
 3. sql 노랭이 1강 2장 (중간까지만 정리함..)
 
@@ -33,4 +33,4 @@
 ---
 
 - [CSS layout](https://github.com/YooJuHyeon/test1/blob/master/0227/web_positioning_for_CSS_layout.md)
-- []()
+- [코드업/바둑알 십자 뒤집기](https://github.com/YooJuHyeon/test1/blob/master/0227/%EB%B0%94%EB%91%91%EC%95%8C_%EC%8B%AD%EC%9E%90_%EB%92%A4%EC%A7%91%EA%B8%B0.py)
